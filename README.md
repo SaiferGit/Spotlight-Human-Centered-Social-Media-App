@@ -19,6 +19,8 @@
     <td style="text-align: center; font-weight: bold;"><img src="https://github.com/SaiferGit/Spotlight-Human-Centered-Social-Media-App/blob/main/Design%20Snapshots/Messenger%20Chat%20Page.png" width="250">Messenger Instance</td>
     <td style="text-align: center; font-weight: bold;"><img src="https://github.com/SaiferGit/Spotlight-Human-Centered-Social-Media-App/blob/main/Design%20Snapshots/Stories%20Page.png" width="250">Stories Page</td>
     <td style="text-align: center; font-weight: bold;"><img src="https://github.com/SaiferGit/Spotlight-Human-Centered-Social-Media-App/blob/main/Design%20Snapshots/Community%20Page.png" width="250">Community Page</td>
+  </tr>
+  <tr>
     <td style="text-align: center; font-weight: bold;"><img src="https://github.com/SaiferGit/Spotlight-Human-Centered-Social-Media-App/blob/main/Design%20Snapshots/Calls%20History%20Page.png" width="250">Call History</td>
   </tr>
 </table>
